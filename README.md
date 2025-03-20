@@ -1,5 +1,5 @@
-- 🥳 Hola
-- 👋 I’m @angziii, an undergraduate @SUSTech
+***😊Hola***
+- 👋 I’m @angziii, an UG student @SUSTech
 - 👀 I’m interested in Robotics and BCI
 - 🌱 I’m currently learning Java, basic python and their further applications (y un poco español)
 - 💞️ I’m looking to make some interesting gadgets now
