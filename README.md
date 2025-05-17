@@ -1,12 +1,13 @@
-***😊Hola***
-- 👋 I’m @angziii, an UG student @SUSTech
-- 👀 I’m interested in Robotics and BCI and all the things that makes the world a better place
-- 🌱 I’m currently learning Java, basic python and their further applications (y un poco español)
-- 💞️ I’d love to build some interesting gadgets like a beautiful web or a cute robot
-- 📫 How to reach me angzi2023@qq.com
-- 😄 Nickname: XieXie
-- 🙈 Fun fact: I'm not a robot.
-- 🤖 But I do talk to them all the time.
+**😊Hola**
+
+- 👋 Hi, I’m @angziii — an undergraduate student at SUSTech.
+- 👀 I’m passionate about Robotics, BCI, and anything that helps make the world a better place.
+- 🌱 Currently learning Java, Python (and diving deeper into their real-world applications)… y un poco español 🇪🇸
+- 💞️ I love building things — whether it’s a beautiful website or a cute little robot.
+- 📫 Feel free to reach out: angzi2023@qq.com
+- 😄 You can call me ***XieXie***.
+- 🙈 Fun fact: I’m not a robot…
+- 🤖 But I talk to them all the time.
 
 <!---
 angziii/angziii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
