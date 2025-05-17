@@ -1,6 +1,6 @@
 ***😊Hola***
 - 👋 I’m @angziii, an UG student @SUSTech
-- 👀 I’m interested in Robotics and BCI
+- 👀 I’m interested in Robotics and BCI and all the things that makes the world a better place
 - 🌱 I’m currently learning Java, basic python and their further applications (y un poco español)
 - 💞️ I’d love to build some interesting gadgets
 - 📫 How to reach me angzi2023@qq.com
