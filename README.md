@@ -1,4 +1,4 @@
-**😊Hola**
+# 😉***Hola***
 
 - 👋 Hi, I’m @angziii — an undergraduate student at SUSTech.
 - 👀 I’m passionate about Robotics, BCI, and anything that helps make the world a better place.
