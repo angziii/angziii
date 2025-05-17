@@ -2,7 +2,7 @@
 - 👋 I’m @angziii, an UG student @SUSTech
 - 👀 I’m interested in Robotics and BCI and all the things that makes the world a better place
 - 🌱 I’m currently learning Java, basic python and their further applications (y un poco español)
-- 💞️ I’d love to build some interesting gadgets
+- 💞️ I’d love to build some interesting gadgets like a beautiful web or a cute robot
 - 📫 How to reach me angzi2023@qq.com
 - 😄 Nickname: XieXie
 - 🙈 Fun fact: I'm not a robot.
