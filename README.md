@@ -1,4 +1,4 @@
-### 👋 Hola, I’m @angziii — an undergraduate student at SUSTech.
+### 👋 Hola, I’m @angziii — an undergraduate at SUSTech.
 ### 📫 Feel free to reach out: angzi2023@qq.com
 
 <!---
